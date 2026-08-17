@@ -252,7 +252,7 @@
             "last_commit": "2024-06-17T05:57:03Z",
             "owner": "qinenergy",
             "repo": "cotta",
-            "stars": 325
+            "stars": 326
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2024-06-17T05:57:03Z",
             "owner": "qinenergy",
             "repo": "cotta",
-            "stars": 325
+            "stars": 326
           }
         },
         {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:43:23.306Z",
+    "last_updated": "2026-08-17T23:46:00.619Z",
     "original_repository": "YuejiangLIU/awesome-source-free-test-time-adaptation",
     "original_repository_sha": "506a5e07e67e9461195bdcae5e2c0dae5d3fbbae",
     "enhanced_repository": "enhansome/enhansome-source-free-test-time-adaptation",

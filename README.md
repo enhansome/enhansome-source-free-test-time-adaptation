@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,567 | 🐛 100 | 📅 2026-06-30 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,986 | 🐛 102 | 📅 2026-06-30 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -63,7 +63,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 #### Pseudo Labeling
 
 * [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20 [\[Code\]](https://github.com/tim-learn/SHOT) ⭐ 497 | 🐛 4 | 🌐 Python | 📅 2024-02-22
-* [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591) CVPR'22 [\[Code\]](https://github.com/qinenergy/cotta) ⭐ 325 | 🐛 3 | 🌐 Python | 📅 2024-06-17
+* [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591) CVPR'22 [\[Code\]](https://github.com/qinenergy/cotta) ⭐ 326 | 🐛 3 | 🌐 Python | 📅 2024-06-17
 * [Adapting ImageNet-scale models to complex distribution shifts with self-learning](https://arxiv.org/abs/2104.12928) TMLR'22 [\[Code\]](https://github.com/bethgelab/robustness) ⭐ 138 | 🐛 2 | 🌐 Python | 📅 2023-07-05
 * [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22 [\[Code\]](https://github.com/DianCh/AdaContrast) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2022-04-29
 * [Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html) CVPR'21 [\[Code\]](https://github.com/idiap/model-uncertainty-for-adaptation) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2022-09-12
@@ -121,7 +121,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 #### Time-varying
 
-* [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591) CVPR'22 [\[Code\]](https://github.com/qinenergy/cotta) ⭐ 325 | 🐛 3 | 🌐 Python | 📅 2024-06-17
+* [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591) CVPR'22 [\[Code\]](https://github.com/qinenergy/cotta) ⭐ 326 | 🐛 3 | 🌐 Python | 📅 2024-06-17
 * [Robust Mean Teacher for Continual and Gradual Test-Time Adaptation](https://arxiv.org/abs/2211.13081) CVPR'23 [\[Code\]](https://github.com/mariodoebler/test-time-adaptation) ⭐ 287 | 🐛 0 | 🌐 Python | 📅 2025-05-29
 * [Robust Test-Time Adaptation in Dynamic Scenarios](https://arxiv.org/abs/2303.13899) CVPR'23 [\[Code\]](https://github.com/BIT-DA/RoTTA) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2023-07-11
 * [NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation](https://openreview.net/forum?id=E9HNxrCFZPV) NeurIPS'22 [\[Code\]](https://github.com/TaesikGong/NOTE) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2023-12-21
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
