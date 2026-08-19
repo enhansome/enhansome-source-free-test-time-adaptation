@@ -2,812 +2,879 @@
   "items": [
     {
       "description": "This is a curated list of research papers in (TTA), which also goes by other names, such as (TTT), (SFDA) and (UMA).\nThe repository is actively maintained. Pull requests or direct messages are welcome.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Contrastive Test-Time Adaptation",
+                  "description": "CVPR'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 475163637,
+                    "language": "Python",
+                    "last_commit": "2022-04-29T19:31:41Z",
+                    "owner": "DianCh",
+                    "repo": "AdaContrast",
+                    "stars": 106
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?",
+                  "description": "NeurIPS'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 427298624,
+                    "language": "Python",
+                    "last_commit": "2022-02-14T15:26:02Z",
+                    "owner": "vita-epfl",
+                    "repo": "ttt-plus-plus",
+                    "stars": 74
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion",
+                  "description": "ICCV'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 680108611,
+                    "language": "Python",
+                    "last_commit": "2024-12-18T06:30:05Z",
+                    "owner": "Yushu-Li",
+                    "repo": "OWTTT",
+                    "stars": 46
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Improved Test-Time Adaptation for Domain Generalization",
+                  "description": "CVPR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 613722858,
+                    "language": "Python",
+                    "last_commit": "2025-01-18T16:53:21Z",
+                    "owner": "liangchen527",
+                    "repo": "ITTA",
+                    "stars": 34
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Self-supervision"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation",
+                  "description": "ICML'20 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272206582,
+                    "language": "Python",
+                    "last_commit": "2024-02-22T08:44:47Z",
+                    "owner": "tim-learn",
+                    "repo": "SHOT",
+                    "stars": 497
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tent: Fully Test-Time Adaptation by Entropy Minimization",
+                  "description": "ICLR'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 348419126,
+                    "language": "Python",
+                    "last_commit": "2021-05-20T05:29:12Z",
+                    "owner": "DequanWang",
+                    "repo": "tent",
+                    "stars": 472
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Towards Stable Test-time Adaptation in Dynamic Wild World",
+                  "description": "ICLR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 595160890,
+                    "language": "Python",
+                    "last_commit": "2023-09-08T08:49:11Z",
+                    "owner": "mr-eggplant",
+                    "repo": "SAR",
+                    "stars": 213
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Efficient Test-Time Model Adaptation without Forgetting",
+                  "description": "ICML'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 496499684,
+                    "language": "Python",
+                    "last_commit": "2023-05-19T05:06:19Z",
+                    "owner": "mr-eggplant",
+                    "repo": "EATA",
+                    "stars": 143
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Uncertainty Reduction for Model Adaptation in Semantic Segmentation",
+                  "description": "CVPR'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 355463335,
+                    "language": "Python",
+                    "last_commit": "2022-09-12T18:42:30Z",
+                    "owner": "idiap",
+                    "repo": "model-uncertainty-for-adaptation",
+                    "stars": 52
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Confidence Score for Source-Free Unsupervised Domain Adaptation",
+                  "description": "ICML'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 503147884,
+                    "language": "Python",
+                    "last_commit": "2023-02-03T07:58:51Z",
+                    "owner": "Jhyun17",
+                    "repo": "CoWA-JMDS",
+                    "stars": 26
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Information Entropy"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Tent: Fully Test-Time Adaptation by Entropy Minimization",
+                  "description": "ICLR'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 348419126,
+                    "language": "Python",
+                    "last_commit": "2021-05-20T05:29:12Z",
+                    "owner": "DequanWang",
+                    "repo": "tent",
+                    "stars": 472
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Towards Stable Test-time Adaptation in Dynamic Wild World",
+                  "description": "ICLR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 595160890,
+                    "language": "Python",
+                    "last_commit": "2023-09-08T08:49:11Z",
+                    "owner": "mr-eggplant",
+                    "repo": "SAR",
+                    "stars": 213
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Improving robustness against common corruptions by covariate shift adaptation",
+                  "description": "NeurIPS'20 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 252722752,
+                    "language": "Python",
+                    "last_commit": "2023-07-05T23:11:00Z",
+                    "owner": "bethgelab",
+                    "repo": "robustness",
+                    "stars": 138
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Limitations of Post-Hoc Feature Alignment for Robustness",
+                  "description": "CVPR'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346249352,
+                    "language": "Python",
+                    "last_commit": "2021-03-11T03:44:20Z",
+                    "owner": "collin-burns",
+                    "repo": "feature-alignment",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Batch Normalization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation",
+                  "description": "ICML'20 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272206582,
+                    "language": "Python",
+                    "last_commit": "2024-02-22T08:44:47Z",
+                    "owner": "tim-learn",
+                    "repo": "SHOT",
+                    "stars": 497
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Continual Test-Time Domain Adaptation",
+                  "description": "CVPR'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 469103312,
+                    "language": "Python",
+                    "last_commit": "2024-06-17T05:57:03Z",
+                    "owner": "qinenergy",
+                    "repo": "cotta",
+                    "stars": 326
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Adapting ImageNet-scale models to complex distribution shifts with self-learning",
+                  "description": "TMLR'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 252722752,
+                    "language": "Python",
+                    "last_commit": "2023-07-05T23:11:00Z",
+                    "owner": "bethgelab",
+                    "repo": "robustness",
+                    "stars": 138
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Contrastive Test-Time Adaptation",
+                  "description": "CVPR'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 475163637,
+                    "language": "Python",
+                    "last_commit": "2022-04-29T19:31:41Z",
+                    "owner": "DianCh",
+                    "repo": "AdaContrast",
+                    "stars": 106
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Uncertainty Reduction for Model Adaptation in Semantic Segmentation",
+                  "description": "CVPR'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 355463335,
+                    "language": "Python",
+                    "last_commit": "2022-09-12T18:42:30Z",
+                    "owner": "idiap",
+                    "repo": "model-uncertainty-for-adaptation",
+                    "stars": 52
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Test-Time Adaptation via Conjugate Pseudo-labels",
+                  "description": "NeurIPS'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 515707717,
+                    "language": "Python",
+                    "last_commit": "2023-05-25T17:20:47Z",
+                    "owner": "locuslab",
+                    "repo": "tta_conjugate",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TeSLA: Test-Time Self-Learning With Automatic Adversarial Augmentation",
+                  "description": "CVPR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 608080633,
+                    "language": "Python",
+                    "last_commit": "2023-04-01T12:44:23Z",
+                    "owner": "devavratTomar",
+                    "repo": "TeSLA",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Pseudo Labeling"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization",
+                  "description": "NeurIPS'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 421401535,
+                    "language": "Python",
+                    "last_commit": "2021-12-02T07:11:37Z",
+                    "owner": "matsuolab",
+                    "repo": "T3A",
+                    "stars": 108
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation",
+                  "description": "NeurIPS'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 489697856,
+                    "language": "Python",
+                    "last_commit": "2024-12-11T05:14:18Z",
+                    "owner": "Albert0147",
+                    "repo": "AaD_SFDA",
+                    "stars": 74
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering",
+                  "description": "NeurIPS'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 498350726,
+                    "language": "Python",
+                    "last_commit": "2023-10-06T06:01:39Z",
+                    "owner": "Gorilla-Lab-SCUT",
+                    "repo": "TTAC",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion",
+                  "description": "ICCV'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 680108611,
+                    "language": "Python",
+                    "last_commit": "2024-12-18T06:30:05Z",
+                    "owner": "Yushu-Li",
+                    "repo": "OWTTT",
+                    "stars": 46
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Class Prototype"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?",
+                  "description": "NeurIPS'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 427298624,
+                    "language": "Python",
+                    "last_commit": "2022-02-14T15:26:02Z",
+                    "owner": "vita-epfl",
+                    "repo": "ttt-plus-plus",
+                    "stars": 74
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Feature Alignment and Uniformity for Test Time Adaptation",
+                  "description": "CVPR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 643411550,
+                    "language": "Python",
+                    "last_commit": "2025-11-23T06:35:20Z",
+                    "owner": "SakurajimaMaiii",
+                    "repo": "TSD",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ActMAD: Activation Matching to Align Distributions for Test-Time-Training",
+                  "description": "CVPR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 616870801,
+                    "language": "Python",
+                    "last_commit": "2023-06-27T15:15:21Z",
+                    "owner": "jmiemirza",
+                    "repo": "ActMAD",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Source-Free Adaptation to Measurement Shift via Bottom-Up Feature Restoration",
+                  "description": "ICLR'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 381081070,
+                    "language": "Python",
+                    "last_commit": "2022-08-30T15:02:10Z",
+                    "owner": "cianeastwood",
+                    "repo": "bufr",
+                    "stars": 16
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Feature Alignment"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Generalized Source-free Domain Adaptation",
+                  "description": "ICCV'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 381678294,
+                    "language": "Python",
+                    "last_commit": "2022-03-29T08:53:34Z",
+                    "owner": "Albert0147",
+                    "repo": "G-SFDA",
+                    "stars": 110
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation",
+                  "description": "NeurIPS'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 405221432,
+                    "language": "Python",
+                    "last_commit": "2022-12-11T20:21:48Z",
+                    "owner": "Albert0147",
+                    "repo": "NRC_SFDA",
+                    "stars": 81
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Test-Time Adaptation via Self-Training with Nearest Neighbor Information",
+                  "description": "ICLR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 583239282,
+                    "language": "Python",
+                    "last_commit": "2023-07-11T02:45:09Z",
+                    "owner": "mingukjang",
+                    "repo": "TAST",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Nearest Neighbors"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts",
+                  "description": "NeurIPS'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 546129564,
+                    "language": "Python",
+                    "last_commit": "2023-03-17T22:05:31Z",
+                    "owner": "n3il666",
+                    "repo": "Meta-DMoE",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning to Generalize across Domains on Single Test Samples",
+                  "description": "ICLR'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 456888203,
+                    "language": "Python",
+                    "last_commit": "2022-02-08T10:43:09Z",
+                    "owner": "zzzx1224",
+                    "repo": "SingleSampleGeneralization-ICLR2022",
+                    "stars": 23
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Meta-learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Continual Test-Time Domain Adaptation",
+                  "description": "CVPR'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 469103312,
+                    "language": "Python",
+                    "last_commit": "2024-06-17T05:57:03Z",
+                    "owner": "qinenergy",
+                    "repo": "cotta",
+                    "stars": 326
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation",
+                  "description": "CVPR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 523804286,
+                    "language": "Python",
+                    "last_commit": "2025-05-29T06:40:39Z",
+                    "owner": "mariodoebler",
+                    "repo": "test-time-adaptation",
+                    "stars": 287
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Robust Test-Time Adaptation in Dynamic Scenarios",
+                  "description": "CVPR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 611251640,
+                    "language": "Python",
+                    "last_commit": "2023-07-11T04:35:55Z",
+                    "owner": "BIT-DA",
+                    "repo": "RoTTA",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation",
+                  "description": "NeurIPS'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 549959213,
+                    "language": "Python",
+                    "last_commit": "2023-12-21T07:50:17Z",
+                    "owner": "TaesikGong",
+                    "repo": "NOTE",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A Probabilistic Framework for Lifelong Test-Time Adaptation",
+                  "description": "CVPR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 618468450,
+                    "language": "Python",
+                    "last_commit": "2023-09-08T09:59:46Z",
+                    "owner": "dhanajitb",
+                    "repo": "petal",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Extrapolative Continuous-time Bayesian Neural Network for Fast Training-free Test-time Adaptation",
+                  "description": "NeurIPS'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 541879271,
+                    "language": "Python",
+                    "last_commit": "2022-12-02T19:49:40Z",
+                    "owner": "guxm2021",
+                    "repo": "ECBNN",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time-varying"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Parameter-free Online Test-time Adaptation",
+                  "description": "CVPR'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 447956994,
+                    "language": "Python",
+                    "last_commit": "2022-06-21T21:02:05Z",
+                    "owner": "fiveai",
+                    "repo": "LAME",
+                    "stars": 77
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Collaborative Sampling in Generative Adversarial Networks",
+                  "description": "AAAI'20 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 168821168,
+                    "language": "Python",
+                    "last_commit": "2020-06-25T11:26:29Z",
+                    "owner": "vita-epfl",
+                    "repo": "collaborative-gan-sampling",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Adaptive Methods for Real-World Domain Generalization",
+                  "description": "CVPR'21 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 377222698,
+                    "language": "Python",
+                    "last_commit": "2021-06-16T21:02:16Z",
+                    "owner": "abhimanyudubey",
+                    "repo": "PrototypicalDomainGeneralization",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Others"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Methods"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective",
+              "description": "CVPR'22 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432295538,
+                "language": "Python",
+                "last_commit": "2022-07-20T20:12:26Z",
+                "owner": "vita-epfl",
+                "repo": "causalmotion",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source-Free Object Detection by Learning to Overlook Domain Style",
+              "description": "CVPR'22 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496932477,
+                "language": "Python",
+                "last_commit": "2023-05-12T11:16:45Z",
+                "owner": "Flashkong",
+                "repo": "Source-Free-Object-Detection-by-Learning-to-Overlook-Domain-Style",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source-Free Domain Adaptation for Image Segmentation",
+              "description": "MICCAI'20 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386533401,
+                "language": "Python",
+                "last_commit": "2023-04-27T14:09:12Z",
+                "owner": "mathilde-b",
+                "repo": "SFDA",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Test-Time Personalization with a Transformer for Human Pose Estimation",
+              "description": "NeurIPS'21 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420334897,
+                "language": "Cuda",
+                "last_commit": "2021-10-23T08:46:55Z",
+                "owner": "harry11162",
+                "repo": "TTP",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition",
+              "description": "ECCV'22 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 510239376,
+                "language": "Python",
+                "last_commit": "2023-03-09T06:01:24Z",
+                "owner": "xuyu0010",
+                "repo": "ATCoN",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks",
+              "description": "CVPR'23 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566304932,
+                "language": "Python",
+                "last_commit": "2022-11-18T12:23:02Z",
+                "owner": "serizba",
+                "repo": "SfM-TTR",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Test-Time Training Can Close the Natural Distribution Shift Performance Gap in Deep Learning Based Compressed Sensing",
+              "description": "ICML'22 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 396849416,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-04-27T04:55:34Z",
+                "owner": "MLI-lab",
+                "repo": "ttt_for_deep_learning_cs",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention",
+              "description": "ICML'22 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457799171,
+                "language": "Python",
+                "last_commit": "2025-06-11T11:39:13Z",
+                "owner": "RobertCsordas",
+                "repo": "linear_layer_as_attention",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition",
+              "description": "CVPR'22 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473503537,
+                "language": "Python",
+                "last_commit": "2024-02-26T06:27:20Z",
+                "owner": "82magnolia",
+                "repo": "ev_tta",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applications"
+        }
+      ],
       "title": "Awesome Source-free Test-time Adaptation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Methods"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Contrastive Test-Time Adaptation",
-          "description": "CVPR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-29T19:31:41Z",
-            "owner": "DianCh",
-            "repo": "AdaContrast",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?",
-          "description": "NeurIPS'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-14T15:26:02Z",
-            "owner": "vita-epfl",
-            "repo": "ttt-plus-plus",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion",
-          "description": "ICCV'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-18T06:30:05Z",
-            "owner": "Yushu-Li",
-            "repo": "OWTTT",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Improved Test-Time Adaptation for Domain Generalization",
-          "description": "CVPR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-18T16:53:21Z",
-            "owner": "liangchen527",
-            "repo": "ITTA",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "Self-supervision"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation",
-          "description": "ICML'20 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-22T08:44:47Z",
-            "owner": "tim-learn",
-            "repo": "SHOT",
-            "stars": 497
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tent: Fully Test-Time Adaptation by Entropy Minimization",
-          "description": "ICLR'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-05-20T05:29:12Z",
-            "owner": "DequanWang",
-            "repo": "tent",
-            "stars": 472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards Stable Test-time Adaptation in Dynamic Wild World",
-          "description": "ICLR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-08T08:49:11Z",
-            "owner": "mr-eggplant",
-            "repo": "SAR",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Efficient Test-Time Model Adaptation without Forgetting",
-          "description": "ICML'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-19T05:06:19Z",
-            "owner": "mr-eggplant",
-            "repo": "EATA",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uncertainty Reduction for Model Adaptation in Semantic Segmentation",
-          "description": "CVPR'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-12T18:42:30Z",
-            "owner": "idiap",
-            "repo": "model-uncertainty-for-adaptation",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Confidence Score for Source-Free Unsupervised Domain Adaptation",
-          "description": "ICML'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-03T07:58:51Z",
-            "owner": "Jhyun17",
-            "repo": "CoWA-JMDS",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Information Entropy"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Tent: Fully Test-Time Adaptation by Entropy Minimization",
-          "description": "ICLR'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-05-20T05:29:12Z",
-            "owner": "DequanWang",
-            "repo": "tent",
-            "stars": 472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards Stable Test-time Adaptation in Dynamic Wild World",
-          "description": "ICLR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-08T08:49:11Z",
-            "owner": "mr-eggplant",
-            "repo": "SAR",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Improving robustness against common corruptions by covariate shift adaptation",
-          "description": "NeurIPS'20 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-05T23:11:00Z",
-            "owner": "bethgelab",
-            "repo": "robustness",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Limitations of Post-Hoc Feature Alignment for Robustness",
-          "description": "CVPR'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-11T03:44:20Z",
-            "owner": "collin-burns",
-            "repo": "feature-alignment",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Batch Normalization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation",
-          "description": "ICML'20 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-22T08:44:47Z",
-            "owner": "tim-learn",
-            "repo": "SHOT",
-            "stars": 497
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Continual Test-Time Domain Adaptation",
-          "description": "CVPR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-17T05:57:03Z",
-            "owner": "qinenergy",
-            "repo": "cotta",
-            "stars": 326
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adapting ImageNet-scale models to complex distribution shifts with self-learning",
-          "description": "TMLR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-05T23:11:00Z",
-            "owner": "bethgelab",
-            "repo": "robustness",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Contrastive Test-Time Adaptation",
-          "description": "CVPR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-29T19:31:41Z",
-            "owner": "DianCh",
-            "repo": "AdaContrast",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uncertainty Reduction for Model Adaptation in Semantic Segmentation",
-          "description": "CVPR'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-12T18:42:30Z",
-            "owner": "idiap",
-            "repo": "model-uncertainty-for-adaptation",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Test-Time Adaptation via Conjugate Pseudo-labels",
-          "description": "NeurIPS'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-25T17:20:47Z",
-            "owner": "locuslab",
-            "repo": "tta_conjugate",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TeSLA: Test-Time Self-Learning With Automatic Adversarial Augmentation",
-          "description": "CVPR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-01T12:44:23Z",
-            "owner": "devavratTomar",
-            "repo": "TeSLA",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Pseudo Labeling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization",
-          "description": "NeurIPS'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-02T07:11:37Z",
-            "owner": "matsuolab",
-            "repo": "T3A",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation",
-          "description": "NeurIPS'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-11T05:14:18Z",
-            "owner": "Albert0147",
-            "repo": "AaD_SFDA",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering",
-          "description": "NeurIPS'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-06T06:01:39Z",
-            "owner": "Gorilla-Lab-SCUT",
-            "repo": "TTAC",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion",
-          "description": "ICCV'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-18T06:30:05Z",
-            "owner": "Yushu-Li",
-            "repo": "OWTTT",
-            "stars": 46
-          }
-        }
-      ],
-      "title": "Class Prototype"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?",
-          "description": "NeurIPS'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-14T15:26:02Z",
-            "owner": "vita-epfl",
-            "repo": "ttt-plus-plus",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Feature Alignment and Uniformity for Test Time Adaptation",
-          "description": "CVPR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-23T06:35:20Z",
-            "owner": "SakurajimaMaiii",
-            "repo": "TSD",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ActMAD: Activation Matching to Align Distributions for Test-Time-Training",
-          "description": "CVPR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-27T15:15:21Z",
-            "owner": "jmiemirza",
-            "repo": "ActMAD",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source-Free Adaptation to Measurement Shift via Bottom-Up Feature Restoration",
-          "description": "ICLR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-30T15:02:10Z",
-            "owner": "cianeastwood",
-            "repo": "bufr",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Feature Alignment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Generalized Source-free Domain Adaptation",
-          "description": "ICCV'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-29T08:53:34Z",
-            "owner": "Albert0147",
-            "repo": "G-SFDA",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation",
-          "description": "NeurIPS'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-11T20:21:48Z",
-            "owner": "Albert0147",
-            "repo": "NRC_SFDA",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Test-Time Adaptation via Self-Training with Nearest Neighbor Information",
-          "description": "ICLR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-11T02:45:09Z",
-            "owner": "mingukjang",
-            "repo": "TAST",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Nearest Neighbors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts",
-          "description": "NeurIPS'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-17T22:05:31Z",
-            "owner": "n3il666",
-            "repo": "Meta-DMoE",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning to Generalize across Domains on Single Test Samples",
-          "description": "ICLR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-08T10:43:09Z",
-            "owner": "zzzx1224",
-            "repo": "SingleSampleGeneralization-ICLR2022",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Meta-learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Continual Test-Time Domain Adaptation",
-          "description": "CVPR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-17T05:57:03Z",
-            "owner": "qinenergy",
-            "repo": "cotta",
-            "stars": 326
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation",
-          "description": "CVPR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-29T06:40:39Z",
-            "owner": "mariodoebler",
-            "repo": "test-time-adaptation",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robust Test-Time Adaptation in Dynamic Scenarios",
-          "description": "CVPR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-11T04:35:55Z",
-            "owner": "BIT-DA",
-            "repo": "RoTTA",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation",
-          "description": "NeurIPS'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-21T07:50:17Z",
-            "owner": "TaesikGong",
-            "repo": "NOTE",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A Probabilistic Framework for Lifelong Test-Time Adaptation",
-          "description": "CVPR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-08T09:59:46Z",
-            "owner": "dhanajitb",
-            "repo": "petal",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Extrapolative Continuous-time Bayesian Neural Network for Fast Training-free Test-time Adaptation",
-          "description": "NeurIPS'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-02T19:49:40Z",
-            "owner": "guxm2021",
-            "repo": "ECBNN",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Time-varying"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Parameter-free Online Test-time Adaptation",
-          "description": "CVPR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-21T21:02:05Z",
-            "owner": "fiveai",
-            "repo": "LAME",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Collaborative Sampling in Generative Adversarial Networks",
-          "description": "AAAI'20 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-25T11:26:29Z",
-            "owner": "vita-epfl",
-            "repo": "collaborative-gan-sampling",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adaptive Methods for Real-World Domain Generalization",
-          "description": "CVPR'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-06-16T21:02:16Z",
-            "owner": "abhimanyudubey",
-            "repo": "PrototypicalDomainGeneralization",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective",
-          "description": "CVPR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-20T20:12:26Z",
-            "owner": "vita-epfl",
-            "repo": "causalmotion",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source-Free Object Detection by Learning to Overlook Domain Style",
-          "description": "CVPR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-12T11:16:45Z",
-            "owner": "Flashkong",
-            "repo": "Source-Free-Object-Detection-by-Learning-to-Overlook-Domain-Style",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source-Free Domain Adaptation for Image Segmentation",
-          "description": "MICCAI'20 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-27T14:09:12Z",
-            "owner": "mathilde-b",
-            "repo": "SFDA",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Test-Time Personalization with a Transformer for Human Pose Estimation",
-          "description": "NeurIPS'21 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cuda",
-            "last_commit": "2021-10-23T08:46:55Z",
-            "owner": "harry11162",
-            "repo": "TTP",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition",
-          "description": "ECCV'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-09T06:01:24Z",
-            "owner": "xuyu0010",
-            "repo": "ATCoN",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks",
-          "description": "CVPR'23 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-18T12:23:02Z",
-            "owner": "serizba",
-            "repo": "SfM-TTR",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Test-Time Training Can Close the Natural Distribution Shift Performance Gap in Deep Learning Based Compressed Sensing",
-          "description": "ICML'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-04-27T04:55:34Z",
-            "owner": "MLI-lab",
-            "repo": "ttt_for_deep_learning_cs",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention",
-          "description": "ICML'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-11T11:39:13Z",
-            "owner": "RobertCsordas",
-            "repo": "linear_layer_as_attention",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition",
-          "description": "CVPR'22 [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-26T06:27:20Z",
-            "owner": "82magnolia",
-            "repo": "ev_tta",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:46:20.579Z",
+    "last_updated": "2026-08-19T12:50:52.702Z",
     "original_repository": "YuejiangLIU/awesome-source-free-test-time-adaptation",
+    "original_repository_id": 446044280,
     "original_repository_sha": "506a5e07e67e9461195bdcae5e2c0dae5d3fbbae",
     "enhanced_repository": "enhansome/enhansome-source-free-test-time-adaptation",
     "enhanced_repository_description": null,
