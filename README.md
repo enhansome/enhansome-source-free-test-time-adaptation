@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,824 | 🐛 102 | 📅 2026-08-18 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,231 | 🐛 105 | 📅 2026-08-18 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -29,7 +29,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 #### Self-supervision
 
 * [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22 [\[Code\]](https://github.com/DianCh/AdaContrast) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2022-04-29
-* [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://openreview.net/pdf?id=86NHK__yFDl) NeurIPS'21 [\[Code\]](https://github.com/vita-epfl/ttt-plus-plus) ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2022-02-14
+* [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://openreview.net/pdf?id=86NHK__yFDl) NeurIPS'21 [\[Code\]](https://github.com/vita-epfl/ttt-plus-plus) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2022-02-14
 * [On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion](https://arxiv.org/abs/2308.09942) ICCV'23  [\[Code\]](https://github.com/Yushu-Li/OWTTT) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-12-18
 * [Improved Test-Time Adaptation for Domain Generalization](https://arxiv.org/abs/2304.04494) CVPR'23 [\[Code\]](https://github.com/liangchen527/ITTA) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2025-01-18
 * [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](http://proceedings.mlr.press/v119/sun20b.html) ICML'20 [\[Project\]](https://yueatsprograms.github.io/ttt/home.html)
@@ -83,7 +83,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 #### Feature Alignment
 
-* [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html) NeurIPS'21 [\[Code\]](https://github.com/vita-epfl/ttt-plus-plus) ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2022-02-14
+* [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html) NeurIPS'21 [\[Code\]](https://github.com/vita-epfl/ttt-plus-plus) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2022-02-14
 * [Feature Alignment and Uniformity for Test Time Adaptation
   ](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Feature_Alignment_and_Uniformity_for_Test_Time_Adaptation_CVPR_2023_paper.html) CVPR'23 [\[Code\]](https://github.com/SakurajimaMaiii/TSD) ⭐ 49 | 🐛 2 | 🌐 Python | 📅 2025-11-23
 * [ActMAD: Activation Matching to Align Distributions for Test-Time-Training](https://arxiv.org/abs/2211.12870) CVPR'23 [\[Code\]](https://github.com/jmiemirza/actmad) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2023-06-27
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
