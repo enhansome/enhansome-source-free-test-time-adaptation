@@ -486,6 +486,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Back to the Source: Diffusion-Driven Test-Time Adaptation",
+                  "description": "CVPR'23 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 494401861,
+                    "language": "Python",
+                    "last_commit": "2023-11-27T05:42:10Z",
+                    "owner": "shiyegao",
+                    "repo": "DDA",
+                    "stars": 87
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Generative Modeling"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Generalized Source-free Domain Adaptation",
                   "description": "ICCV'21 [Code]",
                   "children": [],
@@ -533,6 +555,28 @@
               "description": null,
               "node_type": "group",
               "title": "Nearest Neighbors"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MEMO: Test Time Robustness via Adaptation and Augmentation",
+                  "description": "NeurIPS'22 [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 434735619,
+                    "language": "Python",
+                    "last_commit": "2023-06-27T04:21:26Z",
+                    "owner": "zhangmarvin",
+                    "repo": "memo",
+                    "stars": 74
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Augmentation Invariance"
             },
             {
               "children": [
@@ -729,6 +773,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "On Pitfalls of Test-Time Adaptation",
+              "description": "ICML'2023 [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631422904,
+                "language": "Python",
+                "last_commit": "2024-04-06T18:51:39Z",
+                "owner": "LINs-lab",
+                "repo": "ttab",
+                "stars": 128
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmark"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective",
               "description": "CVPR'22 [Code]",
               "children": [],
@@ -872,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:44:55.192Z",
+    "last_updated": "2026-08-24T14:20:47.439Z",
     "original_repository": "YuejiangLIU/awesome-source-free-test-time-adaptation",
     "original_repository_id": 446044280,
     "original_repository_sha": "506a5e07e67e9461195bdcae5e2c0dae5d3fbbae",
