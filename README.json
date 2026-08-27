@@ -213,7 +213,7 @@
                     "last_commit": "2023-07-05T23:11:00Z",
                     "owner": "bethgelab",
                     "repo": "robustness",
-                    "stars": 138
+                    "stars": 139
                   }
                 },
                 {
@@ -280,7 +280,7 @@
                     "last_commit": "2023-07-05T23:11:00Z",
                     "owner": "bethgelab",
                     "repo": "robustness",
-                    "stars": 138
+                    "stars": 139
                   }
                 },
                 {
@@ -938,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:48:48.067Z",
+    "last_updated": "2026-08-27T04:37:06.750Z",
     "original_repository": "YuejiangLIU/awesome-source-free-test-time-adaptation",
     "original_repository_id": 446044280,
     "original_repository_sha": "506a5e07e67e9461195bdcae5e2c0dae5d3fbbae",
