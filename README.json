@@ -938,9 +938,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:37:06.750Z",
-    "original_repository": "YuejiangLIU/awesome-source-free-test-time-adaptation",
-    "original_repository_id": 446044280,
+    "last_updated": "2026-08-27T12:02:39.518Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 446044280,
+      "language": null,
+      "last_commit": "2024-06-23T15:27:39Z",
+      "owner": "YuejiangLIU",
+      "repo": "awesome-source-free-test-time-adaptation",
+      "stars": 548
+    },
     "original_repository_sha": "506a5e07e67e9461195bdcae5e2c0dae5d3fbbae",
     "enhanced_repository": "enhansome/enhansome-source-free-test-time-adaptation",
     "enhanced_repository_description": null,
