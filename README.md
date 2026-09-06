@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,032 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,333 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -28,7 +28,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 #### Self-supervision
 
-* [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22 [\[Code\]](https://github.com/DianCh/AdaContrast) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2022-04-29
+* [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22 [\[Code\]](https://github.com/DianCh/AdaContrast) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2022-04-29
 * [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://openreview.net/pdf?id=86NHK__yFDl) NeurIPS'21 [\[Code\]](https://github.com/vita-epfl/ttt-plus-plus) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2022-02-14
 * [On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion](https://arxiv.org/abs/2308.09942) ICCV'23  [\[Code\]](https://github.com/Yushu-Li/OWTTT) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-12-18
 * [Improved Test-Time Adaptation for Domain Generalization](https://arxiv.org/abs/2304.04494) CVPR'23 [\[Code\]](https://github.com/liangchen527/ITTA) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2025-01-18
@@ -65,7 +65,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20 [\[Code\]](https://github.com/tim-learn/SHOT) ⭐ 497 | 🐛 4 | 🌐 Python | 📅 2024-02-22
 * [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591) CVPR'22 [\[Code\]](https://github.com/qinenergy/cotta) ⭐ 326 | 🐛 3 | 🌐 Python | 📅 2024-06-17
 * [Adapting ImageNet-scale models to complex distribution shifts with self-learning](https://arxiv.org/abs/2104.12928) TMLR'22 [\[Code\]](https://github.com/bethgelab/robustness) ⭐ 139 | 🐛 2 | 🌐 Python | 📅 2023-07-05
-* [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22 [\[Code\]](https://github.com/DianCh/AdaContrast) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2022-04-29
+* [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22 [\[Code\]](https://github.com/DianCh/AdaContrast) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2022-04-29
 * [Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html) CVPR'21 [\[Code\]](https://github.com/idiap/model-uncertainty-for-adaptation) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2022-09-12
 * [Test-Time Adaptation via Conjugate Pseudo-labels](https://openreview.net/forum?id=2yvUYc-YNUH) NeurIPS'22 [\[Code\]](https://github.com/locuslab/tta_conjugate) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2023-05-25
 * [TeSLA: Test-Time Self-Learning With Automatic Adversarial Augmentation](https://arxiv.org/abs/2303.09870) CVPR'23 [\[Code\]](https://github.com/devavratTomar/TeSLA) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2023-04-01
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
