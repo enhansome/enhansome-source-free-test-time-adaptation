@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,996 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,292 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -96,7 +96,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 #### Generative Modeling
 
-* [Back to the Source: Diffusion-Driven Test-Time Adaptation](https://arxiv.org/abs/2207.03442) CVPR'23 [\[Code\]](https://github.com/shiyegao/DDA) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2023-11-27
+* [Back to the Source: Diffusion-Driven Test-Time Adaptation](https://arxiv.org/abs/2207.03442) CVPR'23 [\[Code\]](https://github.com/shiyegao/DDA) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2023-11-27
 * [Model Adaptation: Unsupervised Domain Adaptation without Source Data](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.html) CVPR'20
 * [Domain Impression: A Source Data Free Domain Adaptation Method](https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Domain_Impression_A_Source_Data_Free_Domain_Adaptation_Method_WACV_2021_paper.pdf) WACV'21
 
@@ -156,7 +156,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks](https://arxiv.org/abs/2211.13551) CVPR'23 [\[Code\]](https://github.com/serizba/SfM-TTR) ⭐ 23 | 🐛 3 | 🌐 Python | 📅 2022-11-18
 * [Test-Time Training Can Close the Natural Distribution Shift Performance Gap in Deep Learning Based Compressed Sensing](https://proceedings.mlr.press/v162/darestani22a/darestani22a.pdf) ICML'22 [\[Code\]](https://github.com/MLI-lab/ttt_for_deep_learning_cs) ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-04-27
 * [The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention
-  ](https://proceedings.mlr.press/v162/irie22a/irie22a.pdf) ICML'22 [\[Code\]](https://github.com/robertcsordas/linear_layer_as_attention) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2025-06-11
+  ](https://proceedings.mlr.press/v162/irie22a/irie22a.pdf) ICML'22 [\[Code\]](https://github.com/robertcsordas/linear_layer_as_attention) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-06-11
 * [Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition](https://arxiv.org/abs/2203.12247) CVPR'22 [\[Code\]](https://github.com/82magnolia/ev_tta) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-02-26
 * [Consistent Video Depth Estimation](https://arxiv.org/pdf/2004.15021.pdf) SIGGRAPH'2020 [\[Project\]](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 * [Self-Supervised Policy Adaptation during Deployment](https://openreview.net/forum?id=o_V-MjyyGV_) ICLR'21 [\[Project\]](https://nicklashansen.github.io/PAD/)
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

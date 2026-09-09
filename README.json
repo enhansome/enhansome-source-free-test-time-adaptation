@@ -727,7 +727,7 @@
                     "open_issues": 0,
                     "owner": "shiyegao",
                     "repo": "DDA",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1328,7 +1328,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-06-11T11:39:13Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "RobertCsordas",
                 "repo": "linear_layer_as_attention",
                 "stars": 16,
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:17:19.577Z",
+    "last_updated": "2026-09-09T01:21:42.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
