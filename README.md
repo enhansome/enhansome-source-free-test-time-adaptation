@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,802 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,190 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -122,7 +122,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 #### Time-varying
 
 * [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591) CVPR'22 [\[Code\]](https://github.com/qinenergy/cotta) ⭐ 326 | 🐛 3 | 🌐 Python | 📅 2024-06-17
-* [Robust Mean Teacher for Continual and Gradual Test-Time Adaptation](https://arxiv.org/abs/2211.13081) CVPR'23 [\[Code\]](https://github.com/mariodoebler/test-time-adaptation) ⭐ 287 | 🐛 0 | 🌐 Python | 📅 2025-05-29
+* [Robust Mean Teacher for Continual and Gradual Test-Time Adaptation](https://arxiv.org/abs/2211.13081) CVPR'23 [\[Code\]](https://github.com/mariodoebler/test-time-adaptation) ⭐ 288 | 🐛 0 | 🌐 Python | 📅 2025-05-29
 * [Robust Test-Time Adaptation in Dynamic Scenarios](https://arxiv.org/abs/2303.13899) CVPR'23 [\[Code\]](https://github.com/BIT-DA/RoTTA) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2023-07-11
 * [NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation](https://openreview.net/forum?id=E9HNxrCFZPV) NeurIPS'22 [\[Code\]](https://github.com/TaesikGong/NOTE) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2023-12-21
 * [A Probabilistic Framework for Lifelong Test-Time Adaptation](https://arxiv.org/abs/2212.09713) CVPR'23 [\[Code\]](https://github.com/dhanajitb/petal) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2023-09-08
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
