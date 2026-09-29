@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,513 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,037 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -114,7 +114,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 #### Meta-learning
 
-* [Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts](https://openreview.net/forum?id=_ekGcr07Dsp) NeurIPS'22 [\[Code\]](https://github.com/n3il666/Meta-DMoE) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2023-03-17
+* [Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts](https://openreview.net/forum?id=_ekGcr07Dsp) NeurIPS'22 [\[Code\]](https://github.com/n3il666/Meta-DMoE) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2023-03-17
 * [Learning to Generalize across Domains on Single Test Samples](https://openreview.net/forum?id=CIaQKbTBwtU) ICLR'22 [\[Code\]](https://github.com/zzzx1224/SingleSampleGeneralization-ICLR2022) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2022-02-08
 * [Test-Time Fast Adaptation for Dynamic Scene Deblurring via Meta-Auxiliary Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chi_Test-Time_Fast_Adaptation_for_Dynamic_Scene_Deblurring_via_Meta-Auxiliary_Learning_CVPR_2021_paper.html) CVPR'21
 * [Adaptive Risk Minimization: Learning to Adapt to Domain Shift](https://proceedings.neurips.cc/paper/2021/hash/c705112d1ec18b97acac7e2d63973424-Abstract.html) NeurIPS'21 [\[Code\]](https://sites.google.com/view/adaptive-risk-minimization)
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
