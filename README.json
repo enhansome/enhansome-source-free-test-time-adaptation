@@ -524,7 +524,7 @@
                     "open_issues": 5,
                     "owner": "matsuolab",
                     "repo": "T3A",
-                    "stars": 108,
+                    "stars": 109,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:17:06.376Z",
+    "last_updated": "2026-10-02T02:26:16.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
