@@ -194,7 +194,7 @@
                     "open_issues": 1,
                     "owner": "mr-eggplant",
                     "repo": "EATA",
-                    "stars": 143,
+                    "stars": 144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:26:16.620Z",
+    "last_updated": "2026-10-03T02:12:27.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
