@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,718 | 🐛 107 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,215 | 🐛 107 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -43,7 +43,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 * [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20 [\[Code\]](https://github.com/tim-learn/SHOT) ⭐ 497 | 🐛 4 | 🌐 Python | 📅 2024-02-22
 * [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) ICLR'21 [\[Code\]](https://github.com/DequanWang/tent) ⚠️ Archived
-* [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 212 | 🐛 1 | 🌐 Python | 📅 2023-09-08
+* [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 213 | 🐛 1 | 🌐 Python | 📅 2023-09-08
 * [Efficient Test-Time Model Adaptation without Forgetting](https://arxiv.org/abs/2204.02610) ICML'22 [\[Code\]](https://github.com/mr-eggplant/EATA) ⭐ 144 | 🐛 1 | 🌐 Python | 📅 2023-05-19
 * [Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html) CVPR'21 [\[Code\]](https://github.com/idiap/model-uncertainty-for-adaptation) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2022-09-12
 * [Confidence Score for Source-Free Unsupervised Domain Adaptation](https://arxiv.org/abs/2206.06640) ICML'22 [\[Code\]](https://github.com/Jhyun17/CoWA-JMDS) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2023-02-03
@@ -52,7 +52,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 #### Batch Normalization
 
 * [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) ICLR'21 [\[Code\]](https://github.com/DequanWang/tent) ⚠️ Archived
-* [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 212 | 🐛 1 | 🌐 Python | 📅 2023-09-08
+* [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 213 | 🐛 1 | 🌐 Python | 📅 2023-09-08
 * [Improving robustness against common corruptions by covariate shift adaptation](https://proceedings.neurips.cc/paper/2020/file/85690f81aadc1749175c187784afc9ee-Paper.pdf) NeurIPS'20 [\[Code\]](https://github.com/bethgelab/robustness) ⭐ 139 | 🐛 2 | 🌐 Python | 📅 2023-07-05
 * [Limitations of Post-Hoc Feature Alignment for Robustness
   ](https://openaccess.thecvf.com/content/CVPR2021/html/Burns_Limitations_of_Post-Hoc_Feature_Alignment_for_Robustness_CVPR_2021_paper.html) CVPR'21 [\[Code\]](https://github.com/collin-burns/feature-alignment) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2021-03-11
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
