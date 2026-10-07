@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,362 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,660 | 🐛 106 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -144,7 +144,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ### Benchmark
 
-* [On Pitfalls of Test-Time Adaptation](https://arxiv.org/pdf/2306.03536.pdf) ICML'2023 [\[Code\]](https://github.com/LINs-lab/ttab) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2024-04-06
+* [On Pitfalls of Test-Time Adaptation](https://arxiv.org/pdf/2306.03536.pdf) ICML'2023 [\[Code\]](https://github.com/LINs-lab/ttab) ⭐ 129 | 🐛 1 | 🌐 Python | 📅 2024-04-06
 
 ### Applications
 
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
