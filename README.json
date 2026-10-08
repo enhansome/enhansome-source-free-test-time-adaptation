@@ -23,7 +23,7 @@
                     "open_issues": 4,
                     "owner": "DianCh",
                     "repo": "AdaContrast",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -433,7 +433,7 @@
                     "open_issues": 4,
                     "owner": "DianCh",
                     "repo": "AdaContrast",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -755,7 +755,7 @@
                     "open_issues": 1,
                     "owner": "Albert0147",
                     "repo": "G-SFDA",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": [
                       "domain-adaptation",
                       "iccv2021",
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:34:38.869Z",
+    "last_updated": "2026-10-08T02:49:16.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
