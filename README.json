@@ -122,7 +122,7 @@
                     "open_issues": 4,
                     "owner": "tim-learn",
                     "repo": "SHOT",
-                    "stars": 498,
+                    "stars": 499,
                     "topics": [
                       "domain-adaptation",
                       "icml-2020",
@@ -358,7 +358,7 @@
                     "open_issues": 4,
                     "owner": "tim-learn",
                     "repo": "SHOT",
-                    "stars": 498,
+                    "stars": 499,
                     "topics": [
                       "domain-adaptation",
                       "icml-2020",
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:33:27.964Z",
+    "last_updated": "2026-10-13T03:43:39.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",

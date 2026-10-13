@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,733 | 🐛 105 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,229 | 🐛 105 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -41,7 +41,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 #### Information Entropy
 
-* [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20 [\[Code\]](https://github.com/tim-learn/SHOT) ⭐ 498 | 🐛 4 | 🌐 Python | 📅 2024-02-22
+* [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20 [\[Code\]](https://github.com/tim-learn/SHOT) ⭐ 499 | 🐛 4 | 🌐 Python | 📅 2024-02-22
 * [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) ICLR'21 [\[Code\]](https://github.com/DequanWang/tent) ⚠️ Archived
 * [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 213 | 🐛 1 | 🌐 Python | 📅 2023-09-08
 * [Efficient Test-Time Model Adaptation without Forgetting](https://arxiv.org/abs/2204.02610) ICML'22 [\[Code\]](https://github.com/mr-eggplant/EATA) ⭐ 145 | 🐛 1 | 🌐 Python | 📅 2023-05-19
@@ -62,7 +62,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 #### Pseudo Labeling
 
-* [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20 [\[Code\]](https://github.com/tim-learn/SHOT) ⭐ 498 | 🐛 4 | 🌐 Python | 📅 2024-02-22
+* [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20 [\[Code\]](https://github.com/tim-learn/SHOT) ⭐ 499 | 🐛 4 | 🌐 Python | 📅 2024-02-22
 * [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591) CVPR'22 [\[Code\]](https://github.com/qinenergy/cotta) ⭐ 326 | 🐛 3 | 🌐 Python | 📅 2024-06-17
 * [Adapting ImageNet-scale models to complex distribution shifts with self-learning](https://arxiv.org/abs/2104.12928) TMLR'22 [\[Code\]](https://github.com/bethgelab/robustness) ⭐ 139 | 🐛 2 | 🌐 Python | 📅 2023-07-05
 * [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22 [\[Code\]](https://github.com/DianCh/AdaContrast) ⭐ 109 | 🐛 4 | 🌐 Python | 📅 2022-04-29
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
