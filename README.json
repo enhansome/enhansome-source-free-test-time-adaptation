@@ -931,7 +931,7 @@
                     "open_issues": 0,
                     "owner": "mariodoebler",
                     "repo": "test-time-adaptation",
-                    "stars": 290,
+                    "stars": 291,
                     "topics": [
                       "continual-adaptation",
                       "distribution-shift",
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:43:39.995Z",
+    "last_updated": "2026-10-14T02:03:20.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
