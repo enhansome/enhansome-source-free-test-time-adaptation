@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,697 | 🐛 105 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,039 | 🐛 105 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -29,7 +29,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 #### Self-supervision
 
 * [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22 [\[Code\]](https://github.com/DianCh/AdaContrast) ⭐ 109 | 🐛 4 | 🌐 Python | 📅 2022-04-29
-* [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://openreview.net/pdf?id=86NHK__yFDl) NeurIPS'21 [\[Code\]](https://github.com/vita-epfl/ttt-plus-plus) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2022-02-14
+* [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://openreview.net/pdf?id=86NHK__yFDl) NeurIPS'21 [\[Code\]](https://github.com/vita-epfl/ttt-plus-plus) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2022-02-14
 * [On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion](https://arxiv.org/abs/2308.09942) ICCV'23  [\[Code\]](https://github.com/Yushu-Li/OWTTT) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-12-18
 * [Improved Test-Time Adaptation for Domain Generalization](https://arxiv.org/abs/2304.04494) CVPR'23 [\[Code\]](https://github.com/liangchen527/ITTA) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2025-01-18
 * [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](http://proceedings.mlr.press/v119/sun20b.html) ICML'20 [\[Project\]](https://yueatsprograms.github.io/ttt/home.html)
@@ -44,7 +44,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20 [\[Code\]](https://github.com/tim-learn/SHOT) ⭐ 499 | 🐛 4 | 🌐 Python | 📅 2024-02-22
 * [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) ICLR'21 [\[Code\]](https://github.com/DequanWang/tent) ⚠️ Archived
 * [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 213 | 🐛 1 | 🌐 Python | 📅 2023-09-08
-* [Efficient Test-Time Model Adaptation without Forgetting](https://arxiv.org/abs/2204.02610) ICML'22 [\[Code\]](https://github.com/mr-eggplant/EATA) ⭐ 145 | 🐛 1 | 🌐 Python | 📅 2023-05-19
+* [Efficient Test-Time Model Adaptation without Forgetting](https://arxiv.org/abs/2204.02610) ICML'22 [\[Code\]](https://github.com/mr-eggplant/EATA) ⭐ 146 | 🐛 1 | 🌐 Python | 📅 2023-05-19
 * [Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html) CVPR'21 [\[Code\]](https://github.com/idiap/model-uncertainty-for-adaptation) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2022-09-12
 * [Confidence Score for Source-Free Unsupervised Domain Adaptation](https://arxiv.org/abs/2206.06640) ICML'22 [\[Code\]](https://github.com/Jhyun17/CoWA-JMDS) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2023-02-03
 * [Bayesian Adaptation for Covariate Shift](https://openreview.net/forum?id=15HPeY8MGQ) NeurIPS'21
@@ -76,14 +76,14 @@ The repository is actively maintained. Pull requests or direct messages are welc
 #### Class Prototype
 
 * [Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization](https://proceedings.neurips.cc/paper/2021/hash/1415fe9fea0fa1e45dddcff5682239a0-Abstract.html) NeurIPS'21 [\[Code\]](https://github.com/matsuolab/T3A) ⭐ 109 | 🐛 5 | 🌐 Python | 📅 2021-12-02
-* [Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation](https://openreview.net/forum?id=ZlCpRiZN7n) NeurIPS'22 [\[Code\]](https://github.com/Albert0147/AaD_SFDA) ⭐ 74 | 🐛 4 | 🌐 Python | 📅 2024-12-11
+* [Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation](https://openreview.net/forum?id=ZlCpRiZN7n) NeurIPS'22 [\[Code\]](https://github.com/Albert0147/AaD_SFDA) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2024-12-11
 * [Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering](https://openreview.net/forum?id=W-_4hgRkwb) NeurIPS'22 [\[Code\]](https://github.com/Gorilla-Lab-SCUT/TTAC) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2023-10-06
 * [On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion](https://arxiv.org/abs/2308.09942) ICCV'23  [\[Code\]](https://github.com/Yushu-Li/OWTTT) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-12-18
 * [Model Adaptation: Unsupervised Domain Adaptation Without Source Data](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.html) CVPR'20
 
 #### Feature Alignment
 
-* [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html) NeurIPS'21 [\[Code\]](https://github.com/vita-epfl/ttt-plus-plus) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2022-02-14
+* [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html) NeurIPS'21 [\[Code\]](https://github.com/vita-epfl/ttt-plus-plus) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2022-02-14
 * [Feature Alignment and Uniformity for Test Time Adaptation
   ](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Feature_Alignment_and_Uniformity_for_Test_Time_Adaptation_CVPR_2023_paper.html) CVPR'23 [\[Code\]](https://github.com/SakurajimaMaiii/TSD) ⭐ 49 | 🐛 2 | 🌐 Python | 📅 2025-11-23
 * [ActMAD: Activation Matching to Align Distributions for Test-Time-Training](https://arxiv.org/abs/2211.12870) CVPR'23 [\[Code\]](https://github.com/jmiemirza/actmad) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2023-06-27
@@ -148,10 +148,10 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ### Applications
 
-* [Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective](https://arxiv.org/abs/2111.14820) CVPR'22 [\[Code\]](https://github.com/vita-epfl/causalmotion) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2022-07-20
+* [Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective](https://arxiv.org/abs/2111.14820) CVPR'22 [\[Code\]](https://github.com/vita-epfl/causalmotion) ⭐ 76 | 🐛 0 | 🌐 Python | 📅 2022-07-20
 * [Source-Free Object Detection by Learning to Overlook Domain Style](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Source-Free_Object_Detection_by_Learning_To_Overlook_Domain_Style_CVPR_2022_paper.html) CVPR'22 [\[Code\]](https://github.com/Flashkong/Source-Free-Object-Detection-by-Learning-to-Overlook-Domain-Style) ⭐ 54 | 🐛 8 | 🌐 Python | 📅 2023-05-12
 * [Source-Free Domain Adaptation for Image Segmentation](https://arxiv.org/pdf/2108.03152.pdf) MICCAI'20 [\[Code\]](https://github.com/mathilde-b/SFDA) ⭐ 46 | 🐛 2 | 🌐 Python | 📅 2023-04-27
-* [Test-Time Personalization with a Transformer for Human Pose Estimation](https://proceedings.neurips.cc/paper/2021/file/1517c8664be296f0d87d9e5fc54fdd60-Paper.pdf) NeurIPS'21 [\[Code\]](https://github.com/harry11162/TTP) ⭐ 45 | 🐛 0 | 🌐 Cuda | 📅 2021-10-23
+* [Test-Time Personalization with a Transformer for Human Pose Estimation](https://proceedings.neurips.cc/paper/2021/file/1517c8664be296f0d87d9e5fc54fdd60-Paper.pdf) NeurIPS'21 [\[Code\]](https://github.com/harry11162/TTP) ⭐ 46 | 🐛 0 | 🌐 Cuda | 📅 2021-10-23
 * [Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition](https://arxiv.org/abs/2203.04559) ECCV'22 [\[Code\]](https://github.com/xuyu0010/ATCoN) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2023-03-09
 * [SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks](https://arxiv.org/abs/2211.13551) CVPR'23 [\[Code\]](https://github.com/serizba/SfM-TTR) ⭐ 23 | 🐛 3 | 🌐 Python | 📅 2022-11-18
 * [Test-Time Training Can Close the Natural Distribution Shift Performance Gap in Deep Learning Based Compressed Sensing](https://proceedings.mlr.press/v162/darestani22a/darestani22a.pdf) ICML'22 [\[Code\]](https://github.com/MLI-lab/ttt_for_deep_learning_cs) ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-04-27
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

@@ -44,7 +44,7 @@
                     "open_issues": 5,
                     "owner": "vita-epfl",
                     "repo": "ttt-plus-plus",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": [
                       "distribution-shift",
                       "robustness",
@@ -194,7 +194,7 @@
                     "open_issues": 1,
                     "owner": "mr-eggplant",
                     "repo": "EATA",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -545,7 +545,7 @@
                     "open_issues": 4,
                     "owner": "Albert0147",
                     "repo": "AaD_SFDA",
-                    "stars": 74,
+                    "stars": 75,
                     "topics": [
                       "neurips-2022",
                       "neurips2022",
@@ -625,7 +625,7 @@
                     "open_issues": 5,
                     "owner": "vita-epfl",
                     "repo": "ttt-plus-plus",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": [
                       "distribution-shift",
                       "robustness",
@@ -1172,7 +1172,7 @@
                 "open_issues": 0,
                 "owner": "vita-epfl",
                 "repo": "causalmotion",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "adaptation",
                   "causal-modeling",
@@ -1247,7 +1247,7 @@
                 "open_issues": 0,
                 "owner": "harry11162",
                 "repo": "TTP",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:03:20.920Z",
+    "last_updated": "2026-10-15T01:38:22.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
