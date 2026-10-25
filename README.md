@@ -1,6 +1,6 @@
 # Awesome source free test time adaptation with stars
 
-## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,687 | 🐛 105 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+## Awesome Source-free Test-time Adaptation   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,184 | 🐛 105 | 📅 2026-09-02 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, such as `Test-time Training` (**TTT**), `Source-free Domain Adaptation` (**SFDA**) and `Unsupervised Model Adaptation` (**UMA**).
 
@@ -43,7 +43,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 * [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20 [\[Code\]](https://github.com/tim-learn/SHOT) ⭐ 499 | 🐛 4 | 🌐 Python | 📅 2024-02-22
 * [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) ICLR'21 [\[Code\]](https://github.com/DequanWang/tent) ⚠️ Archived
-* [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 213 | 🐛 1 | 🌐 Python | 📅 2023-09-08
+* [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 214 | 🐛 1 | 🌐 Python | 📅 2023-09-08
 * [Efficient Test-Time Model Adaptation without Forgetting](https://arxiv.org/abs/2204.02610) ICML'22 [\[Code\]](https://github.com/mr-eggplant/EATA) ⭐ 146 | 🐛 1 | 🌐 Python | 📅 2023-05-19
 * [Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html) CVPR'21 [\[Code\]](https://github.com/idiap/model-uncertainty-for-adaptation) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2022-09-12
 * [Confidence Score for Source-Free Unsupervised Domain Adaptation](https://arxiv.org/abs/2206.06640) ICML'22 [\[Code\]](https://github.com/Jhyun17/CoWA-JMDS) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2023-02-03
@@ -52,7 +52,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 #### Batch Normalization
 
 * [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) ICLR'21 [\[Code\]](https://github.com/DequanWang/tent) ⚠️ Archived
-* [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 213 | 🐛 1 | 🌐 Python | 📅 2023-09-08
+* [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [\[Code\]](https://github.com/mr-eggplant/SAR) ⭐ 214 | 🐛 1 | 🌐 Python | 📅 2023-09-08
 * [Improving robustness against common corruptions by covariate shift adaptation](https://proceedings.neurips.cc/paper/2020/file/85690f81aadc1749175c187784afc9ee-Paper.pdf) NeurIPS'20 [\[Code\]](https://github.com/bethgelab/robustness) ⭐ 139 | 🐛 2 | 🌐 Python | 📅 2023-07-05
 * [Limitations of Post-Hoc Feature Alignment for Robustness
   ](https://openaccess.thecvf.com/content/CVPR2021/html/Burns_Limitations_of_Post-Hoc_Feature_Alignment_for_Robustness_CVPR_2021_paper.html) CVPR'21 [\[Code\]](https://github.com/collin-burns/feature-alignment) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2021-03-11
@@ -156,7 +156,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks](https://arxiv.org/abs/2211.13551) CVPR'23 [\[Code\]](https://github.com/serizba/SfM-TTR) ⭐ 23 | 🐛 3 | 🌐 Python | 📅 2022-11-18
 * [Test-Time Training Can Close the Natural Distribution Shift Performance Gap in Deep Learning Based Compressed Sensing](https://proceedings.mlr.press/v162/darestani22a/darestani22a.pdf) ICML'22 [\[Code\]](https://github.com/MLI-lab/ttt_for_deep_learning_cs) ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-04-27
 * [The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention
-  ](https://proceedings.mlr.press/v162/irie22a/irie22a.pdf) ICML'22 [\[Code\]](https://github.com/robertcsordas/linear_layer_as_attention) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-06-11
+  ](https://proceedings.mlr.press/v162/irie22a/irie22a.pdf) ICML'22 [\[Code\]](https://github.com/robertcsordas/linear_layer_as_attention) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2025-06-11
 * [Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition](https://arxiv.org/abs/2203.12247) CVPR'22 [\[Code\]](https://github.com/82magnolia/ev_tta) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-02-26
 * [Consistent Video Depth Estimation](https://arxiv.org/pdf/2004.15021.pdf) SIGGRAPH'2020 [\[Project\]](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 * [Self-Supervised Policy Adaptation during Deployment](https://openreview.net/forum?id=o_V-MjyyGV_) ICLR'21 [\[Project\]](https://nicklashansen.github.io/PAD/)
@@ -175,4 +175,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

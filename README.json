@@ -173,7 +173,7 @@
                     "open_issues": 1,
                     "owner": "mr-eggplant",
                     "repo": "SAR",
-                    "stars": 213,
+                    "stars": 214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -285,7 +285,7 @@
                     "open_issues": 1,
                     "owner": "mr-eggplant",
                     "repo": "SAR",
-                    "stars": 213,
+                    "stars": 214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1331,7 +1331,7 @@
                 "open_issues": 1,
                 "owner": "RobertCsordas",
                 "repo": "linear_layer_as_attention",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:47:26.627Z",
+    "last_updated": "2026-10-25T01:24:14.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
