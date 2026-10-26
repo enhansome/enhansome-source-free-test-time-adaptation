@@ -44,7 +44,7 @@
                     "open_issues": 5,
                     "owner": "vita-epfl",
                     "repo": "ttt-plus-plus",
-                    "stars": 76,
+                    "stars": 77,
                     "topics": [
                       "distribution-shift",
                       "robustness",
@@ -173,7 +173,7 @@
                     "open_issues": 1,
                     "owner": "mr-eggplant",
                     "repo": "SAR",
-                    "stars": 214,
+                    "stars": 216,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -285,7 +285,7 @@
                     "open_issues": 1,
                     "owner": "mr-eggplant",
                     "repo": "SAR",
-                    "stars": 214,
+                    "stars": 216,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -388,7 +388,7 @@
                     "open_issues": 3,
                     "owner": "qinenergy",
                     "repo": "cotta",
-                    "stars": 326,
+                    "stars": 327,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -475,7 +475,7 @@
                     "open_issues": 1,
                     "owner": "locuslab",
                     "repo": "tta_conjugate",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -570,7 +570,7 @@
                     "open_issues": 0,
                     "owner": "Gorilla-Lab-SCUT",
                     "repo": "TTAC",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -625,7 +625,7 @@
                     "open_issues": 5,
                     "owner": "vita-epfl",
                     "repo": "ttt-plus-plus",
-                    "stars": 76,
+                    "stars": 77,
                     "topics": [
                       "distribution-shift",
                       "robustness",
@@ -651,7 +651,7 @@
                     "open_issues": 2,
                     "owner": "SakurajimaMaiii",
                     "repo": "TSD",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -678,7 +678,7 @@
                     "open_issues": 2,
                     "owner": "jmiemirza",
                     "repo": "ActMAD",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -805,7 +805,7 @@
                     "open_issues": 0,
                     "owner": "mingukjang",
                     "repo": "TAST",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -910,7 +910,7 @@
                     "open_issues": 3,
                     "owner": "qinenergy",
                     "repo": "cotta",
-                    "stars": 326,
+                    "stars": 327,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -931,7 +931,7 @@
                     "open_issues": 0,
                     "owner": "mariodoebler",
                     "repo": "test-time-adaptation",
-                    "stars": 291,
+                    "stars": 292,
                     "topics": [
                       "continual-adaptation",
                       "distribution-shift",
@@ -960,7 +960,7 @@
                     "open_issues": 0,
                     "owner": "BIT-DA",
                     "repo": "RoTTA",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1007,7 +1007,7 @@
                     "open_issues": 1,
                     "owner": "dhanajitb",
                     "repo": "petal",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1061,7 +1061,7 @@
                     "open_issues": 3,
                     "owner": "fiveai",
                     "repo": "LAME",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:24:14.969Z",
+    "last_updated": "2026-10-26T01:28:19.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
