@@ -1141,7 +1141,7 @@
                 "open_issues": 1,
                 "owner": "LINs-lab",
                 "repo": "ttab",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "source-free-domain-adaptation",
                   "test-time-adaptation"
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:29:43.033Z",
+    "last_updated": "2026-10-29T02:37:37.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
