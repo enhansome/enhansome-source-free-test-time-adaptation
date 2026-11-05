@@ -306,7 +306,7 @@
                     "open_issues": 2,
                     "owner": "bethgelab",
                     "repo": "robustness",
-                    "stars": 139,
+                    "stars": 140,
                     "topics": [
                       "domain-adaptation",
                       "machine-learning"
@@ -409,7 +409,7 @@
                     "open_issues": 2,
                     "owner": "bethgelab",
                     "repo": "robustness",
-                    "stars": 139,
+                    "stars": 140,
                     "topics": [
                       "domain-adaptation",
                       "machine-learning"
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:06:07.089Z",
+    "last_updated": "2026-11-05T03:36:34.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
