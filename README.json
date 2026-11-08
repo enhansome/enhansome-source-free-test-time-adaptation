@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:59:48.424Z",
+    "last_updated": "2026-11-08T02:38:20.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
@@ -1376,7 +1376,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-06-23T15:27:39Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "YuejiangLIU",
       "repo": "awesome-source-free-test-time-adaptation",
       "stars": 548,
