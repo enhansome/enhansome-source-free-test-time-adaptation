@@ -981,7 +981,7 @@
                     "open_issues": 0,
                     "owner": "TaesikGong",
                     "repo": "NOTE",
-                    "stars": 51,
+                    "stars": 52,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:52:15.770Z",
+    "last_updated": "2026-11-10T04:43:23.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
