@@ -122,7 +122,7 @@
                     "open_issues": 4,
                     "owner": "tim-learn",
                     "repo": "SHOT",
-                    "stars": 500,
+                    "stars": 501,
                     "topics": [
                       "domain-adaptation",
                       "icml-2020",
@@ -173,7 +173,7 @@
                     "open_issues": 1,
                     "owner": "mr-eggplant",
                     "repo": "SAR",
-                    "stars": 217,
+                    "stars": 218,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -194,7 +194,7 @@
                     "open_issues": 1,
                     "owner": "mr-eggplant",
                     "repo": "EATA",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -285,7 +285,7 @@
                     "open_issues": 1,
                     "owner": "mr-eggplant",
                     "repo": "SAR",
-                    "stars": 217,
+                    "stars": 218,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -358,7 +358,7 @@
                     "open_issues": 4,
                     "owner": "tim-learn",
                     "repo": "SHOT",
-                    "stars": 500,
+                    "stars": 501,
                     "topics": [
                       "domain-adaptation",
                       "icml-2020",
@@ -388,7 +388,7 @@
                     "open_issues": 3,
                     "owner": "qinenergy",
                     "repo": "cotta",
-                    "stars": 329,
+                    "stars": 330,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -833,7 +833,7 @@
                     "open_issues": 4,
                     "owner": "zhangmarvin",
                     "repo": "memo",
-                    "stars": 74,
+                    "stars": 75,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -910,7 +910,7 @@
                     "open_issues": 3,
                     "owner": "qinenergy",
                     "repo": "cotta",
-                    "stars": 329,
+                    "stars": 330,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:07.467Z"
@@ -1367,7 +1367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:56:17.559Z",
+    "last_updated": "2026-11-17T05:10:10.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "Test-time Adaptation, Test-time Training and Source-free Domain Adaptation",
@@ -1379,7 +1379,7 @@
       "open_issues": 3,
       "owner": "YuejiangLIU",
       "repo": "awesome-source-free-test-time-adaptation",
-      "stars": 548,
+      "stars": 549,
       "topics": [
         "awesome-list",
         "domain-adaptation",
